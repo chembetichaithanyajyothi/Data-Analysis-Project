@@ -20,6 +20,7 @@ Process:
 Dashboard
 ![screenshot tableau dashboard](https://github.com/user-attachments/assets/f18cad8a-b494-4236-bb09-4ab28cef288b)
 
+
 Project Insights:
 -By doing Volatility analysis for closing price, the price fluctuation is more in NFLX and MSFT tricker group as compared to AAPL and GOOG.
 -By doing Comparitive analysis for closing price, there is positive change to AAPL, NFLX, MSFT tricker groups but there is negative change to GOOG tricker group.
